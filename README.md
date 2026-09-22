@@ -1,25 +1,83 @@
-## Bem-vindo(a) ao perfil Kally_Mg 😁
+# Olá! Eu sou Kally 👋
 
- <div>
-   <a href="https://github.com/KallyMg">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KallyMg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KallyMg&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### 
- 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href=""_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+🎓 Gestão da Tecnologia da Informação  
+💻 Tecnologia da Informação | Desenvolvimento | Sistemas | Redes
+
+Sou profissional de Tecnologia da Informação, com experiência em
+redes, infraestrutura e suporte técnico, e em constante evolução
+nas áreas de programação, desenvolvimento de sistemas e desenvolvimento web.
+
+Atualmente estou ampliando meus conhecimentos por meio de estudos
+e projetos práticos, utilizando este espaço para construir meu
+portfólio e compartilhar minha evolução na área de tecnologia.
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Graduação em Gestão da Tecnologia da Informação — em formação
+
+🌐 Experiência com redes e infraestrutura
+
+🖥️ Experiência com sistemas e suporte técnico
+
+💻 Estudos em programação e desenvolvimento
+
+🌎 Interesse em desenvolvimento web
+
+🗄️ Estudos em banco de dados
+
+⚙️ Interesse em automação e novas tecnologias
+
+---
+
+## 🧰 Áreas de interesse
+
+### 💻 Desenvolvimento
+Programação • Desenvolvimento Web • Sistemas • APIs
+
+### 🗄️ Banco de Dados
+Modelagem de Dados • SQL • MySQL
+
+### 🌐 Redes e Infraestrutura
+MikroTik • FTTH • TCP/IP • VLAN • IPv4 • IPv6 • Linux
+
+### ⚙️ Tecnologia
+Automação • Monitoramento • Suporte • Infraestrutura de TI
+
+---
+
+## 📚 Atualmente estudando
+
+- Programação
+- Desenvolvimento Web
+- Banco de Dados
+- Desenvolvimento de Sistemas
+- Git e GitHub
+- Boas práticas de desenvolvimento
+- Tecnologias de infraestrutura
+
+---
+
+## 📂 Projetos
+
+Este perfil reúne projetos acadêmicos, projetos pessoais,
+experimentos e estudos relacionados à Tecnologia da Informação.
+
+Alguns projetos permanecem privados enquanto estão em desenvolvimento.
+
+---
+
+## 🎓 Formação
+
+**Gestão da Tecnologia da Informação**  
+
+---
+
+## 📫 Contato
+
+🔗 [GitHub](https://github.com/KallyMg)
+
+---
+
+⭐ Este perfil está em constante evolução.
